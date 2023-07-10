@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner-img{
+    width: 635px;
+    height: 800px;
+}
+
+.banner-container{
+    display:flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    background-color:#FCEEF1;
+    padding-top: 0px;
+}
+
+.title{
+ padding-bottom: 10px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.discription{
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+ .btn{
+    background-color: #E55473;
+    width: 150px;
+    color:white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+ }
