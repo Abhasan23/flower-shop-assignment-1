@@ -126,3 +126,26 @@ span{
 .deal-text{
     text-align: center;
 }
+/* this is hot deal css  */
+
+.site-name{
+    text-align: center;
+    margin-top: 80px;
+    padding: 20px;
+}
+
+.social-photo{
+    text-align: center;
+    
+}
+img{
+    margin-left: 20px;
+}
+.site-instagram{
+    font-size: 40px;
+}
+.site-fb{
+    font-size: 40px;
+    color: blue;
+}
+
