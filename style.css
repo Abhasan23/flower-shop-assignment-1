@@ -37,3 +37,81 @@
     font-size: 20px;
     font-weight: bold;
  }
+    /* This is banner section */
+ 
+ 
+    .featur-title{
+    font-size: 40px;
+ }
+
+ .featur-discription{
+    font-size: 18px;
+    padding: 10px;
+ }
+ .featur-text{
+    text-align: center;
+    padding-top: 100px;
+ }
+ .box{
+    width: 460px;
+    height: 300px;
+    background-color: #F2DEE8;
+    top:150px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+ }
+ .feature-img-1{
+    width: 150px;
+    bottom:0px;
+    left:31%;
+     
+}
+.feature-img-2{
+    width: 150px;
+    bottom:0px;
+    left:31%;
+     
+}
+.feature-img-3{
+    width: 200px;
+    bottom:0px;
+    left:31%;
+     
+}
+
+
+ .feature-photo{
+    display: flex;
+    justify-content: center;
+ }
+
+
+
+
+
+.box-img{
+    padding-top: 100px;
+}
+
+
+.deal-img{
+    width: 318px;
+}
+
+.hotDeal-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #FEF6F8;
+    margin-top: 50px;
+    height: 620px;
+    padding: 30px;
+}
+
+.deal-title{
+    font-size: 40px;
+}
+
+.deal-discrip{
+    font-size: 18px;
+}
