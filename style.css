@@ -125,11 +125,7 @@
         
 }
 
-.img-link{
-    
-}
 
-    
 /* This is featur section  */
 
 
@@ -181,9 +177,9 @@ span{
 
 .social-photo{
     text-align: center;
-    
-    
+     
 }
+
 img{
     margin-left: 10px;
     width: 227px;
@@ -202,7 +198,7 @@ img{
 .letest-deal{
     width: 960px;
     height: 200px;
-    background-image: url("/images/Rectangle\ 9.png") ;
+    background-image: url("/images/rectangle\ 9.png") ;
     background-repeat: no-repeat;
     background-size: cover;
     margin: 50px auto;
@@ -247,7 +243,7 @@ img{
 
 .footer-container{
     display: flex;
-    background-color: rgb(41, 37, 37);
+    background-color: rgb(31, 28, 28);
     height:300px;
     text-align: center;
     align-items: center;
@@ -255,15 +251,20 @@ img{
    .footer-text{
     margin: 0px auto;
    }
-   .site-name{
-    color: 
-    font-weight: bold;
-        
+   .site-title{
+    color: white;
+    font-weight:bold;
+     padding:20px;     
    }
    span2{
-    color:#E55473
+    color:#E55473;
    }
    .site-meta{
     color: white;
     font-size: 15px;
+    padding: 10px;
+   }
+   .copyright{
+    font-size:14px;
+    color: rgb(204, 184, 184);
    }
