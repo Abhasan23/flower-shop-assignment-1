@@ -38,6 +38,7 @@
     border-radius: 5px;
     font-size: 20px;
     font-weight: bold;
+    cursor: pointer;
  }
     /* This is banner section */
   
@@ -201,7 +202,7 @@ img{
 .letest-deal{
     width: 960px;
     height: 200px;
-    background-image:url("/images/rectangle9.png");
+    background-image:url("images/rectangle9.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     margin: 50px auto;
